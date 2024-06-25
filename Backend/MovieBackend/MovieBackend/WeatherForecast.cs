@@ -10,6 +10,5 @@ namespace MovieBackend
 
         public string? Summary { get; set; }
         public string EnesPipimiye { get; set; }
-
     }
 }
